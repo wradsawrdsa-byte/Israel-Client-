@@ -5,7 +5,6 @@ Includes bypasses for anticheats such as: Hypixel, Grim, Intave, Matrix, Vulcan,
 
 This Client is based off of Myau 
 
-If you have any issues please dont hesitate to dm at @painv2onsomers on discord!!!
 Discord server: https://discord.gg/sfkTwtp3F
 
 
